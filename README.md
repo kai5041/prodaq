@@ -1,2 +1,2 @@
-# Realistic and Theorical Circuit Simulator
+# Produce Digital, Analog and Quantum circuits | EXPERIMENTAL
 
